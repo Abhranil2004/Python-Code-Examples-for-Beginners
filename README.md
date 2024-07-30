@@ -22,7 +22,8 @@ To get started with the code, follow these steps:
 
    ```bash
    git clone https://github.com/Abhranil2004/Python-Codes
-   ## Contributing
+
+## Contributing
 Contributions are welcome! If you have suggestions, improvements, or bug fixes, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
  ## License 📄
